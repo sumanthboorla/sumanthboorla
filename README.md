@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sumanthboorla
 - 👀 I’m interested in Python Programming, Machine Learning , Web Development.
 - ❤  Solved 200+ Problems on leetcode, GFG and other platforms.
-- 🌱 I’m currently learning Web Development - Reactjs. MongoDB, Nodejs,Expressjs . 
+- 🌱 Web Development - Reactjs. MongoDB, Nodejs,Expressjs, SpringBoot . 
 - 💞️ I’m looking to collaborate on Web Development.
 - 📃 Published a paper in IEEExplore.
 - 📫 How to reach me raise a issue in repo.
